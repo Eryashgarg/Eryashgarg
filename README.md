@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Garg</h1>
 <h3 align="center">Securing the Digital World: A B.Tech Computer Science Student's Journey into Cyber Security</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eryashgarg&label=Profile%20views&color=0e75b6&style=flat" alt="eryashgarg" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eryashgarg" alt="eryashgarg" /></a> </p>
-
 - 🌱 I’m currently learning **Computer Science (Cyber Security & Digital Forensics)**
 
 - 💬 Ask me about **Java, C++, Python, Web Dev, SQL**
